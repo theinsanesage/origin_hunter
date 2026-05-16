@@ -29,9 +29,9 @@ dnspython>=2.0.0
 colorama>=0.4.4
 mmh3>=3.0.0
 
-# Optional alternative for mmh3 (pure Python, no compilation needed)
-# pymmh3>=0.0.5
+Optional alternative for mmh3 (pure Python, no compilation needed)
+pymmh3>=0.0.5
 
-# Note: ipaddress, urllib3, and all other modules are part of Python's standard library.
+Note: ipaddress, urllib3, and all other modules are part of Python's standard library.
 
 > ⚠️ **Important**: This tool is for **educational purposes and authorized security testing only**. Unauthorized use against systems you do not own or have explicit permission to test may violate laws and regulations.
