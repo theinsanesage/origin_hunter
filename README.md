@@ -21,4 +21,17 @@ This tool automates the discovery process using multiple proven techniques, givi
 - **Penetration Testing** – Identify exposed backend servers behind WAFs.
 - **Infrastructure Auditing** – Verify that CDN/WAF configurations properly hide origin IPs.
 
+## Requirements
+
+# Core requirements for origin_hunter.py
+requests>=2.25.0
+dnspython>=2.0.0
+colorama>=0.4.4
+mmh3>=3.0.0
+
+# Optional alternative for mmh3 (pure Python, no compilation needed)
+# pymmh3>=0.0.5
+
+# Note: ipaddress, urllib3, and all other modules are part of Python's standard library.
+
 > ⚠️ **Important**: This tool is for **educational purposes and authorized security testing only**. Unauthorized use against systems you do not own or have explicit permission to test may violate laws and regulations.
