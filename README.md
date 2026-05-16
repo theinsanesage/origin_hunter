@@ -1,6 +1,3 @@
-# origin_hunter
-Find real IP behind CDNs/WAFs - DNS history, SSL certs, subdomain enum, favicon hash, email headers.
-
 # 🎯 Origin Hunter
 
 **Origin Hunter** is a powerful reconnaissance tool designed to uncover the **real origin IP address** of web applications hidden behind Content Delivery Networks (CDNs), 
